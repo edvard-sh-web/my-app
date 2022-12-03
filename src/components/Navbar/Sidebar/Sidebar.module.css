@@ -1,0 +1,17 @@
+h2{
+}
+
+.sidebar{
+    color: white;
+    padding: 20px;
+}
+
+.sidebar img{
+    width: 50px;
+}
+.friendsContainer{
+    display: flex;
+}
+.friendsContainer div{
+    padding: 5px;
+}
